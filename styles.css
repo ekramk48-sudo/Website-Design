@@ -319,7 +319,7 @@ body {
 .map-box iframe {
     display: block;
     border: none;
-    width: 100%;
+    width: 500px;
     height: 300px;
     position: relative;
     z-index: 1;
